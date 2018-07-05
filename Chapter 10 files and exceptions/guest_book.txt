@@ -1,0 +1,13 @@
+
+alvin
+Welcome aboard, alvin!
+jinwei
+Welcome aboard, jinwei!
+carmen
+Welcome aboard, carmen!
+dad
+Welcome aboard, dad!
+mom
+Welcome aboard, mom!
+quit
+Welcome aboard, quit!
